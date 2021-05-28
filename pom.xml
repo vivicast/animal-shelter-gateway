@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>es.animal.protection</groupId>
 	<artifactId>animal-shelter-gateway</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-RELEASE</version>
 	<name>animal-shelter-gateway</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Spring Cloud Gateway</description>
 	<properties>
 		<java.version>11</java.version>
 		<spring-cloud.version>Hoxton.SR11</spring-cloud.version>
